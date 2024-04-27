@@ -1,6 +1,6 @@
 package com.example.UsersCRUD.controller;
 
-import com.example.UsersCRUD.UserService.UserService;
+import com.example.UsersCRUD.service.UserService;
 import com.example.UsersCRUD.model.User;
 import com.example.UsersCRUD.repositories.UserRepository;
 import org.junit.jupiter.api.BeforeEach;

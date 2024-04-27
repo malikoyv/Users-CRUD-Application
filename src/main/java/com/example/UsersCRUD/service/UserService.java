@@ -1,4 +1,4 @@
-package com.example.UsersCRUD.UserService;
+package com.example.UsersCRUD.service;
 
 import com.example.UsersCRUD.model.User;
 import com.example.UsersCRUD.repositories.UserRepository;

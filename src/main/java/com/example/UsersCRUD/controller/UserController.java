@@ -1,6 +1,6 @@
 package com.example.UsersCRUD.controller;
 
-import com.example.UsersCRUD.UserService.UserService;
+import com.example.UsersCRUD.service.UserService;
 import com.example.UsersCRUD.model.User;
 import lombok.Setter;
 import org.springframework.beans.factory.annotation.Autowired;
